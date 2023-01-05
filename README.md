@@ -1,2 +1,2 @@
 # BootstrapGrids
-# Pratice using Bootstrap Grids through Coder Foundry!
+Pratice using Bootstrap Grids through Coder Foundry!
