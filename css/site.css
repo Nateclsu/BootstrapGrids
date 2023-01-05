@@ -2,11 +2,19 @@ main>.container {
     padding: 60px 15px 0;
     margin-bottom: 5rem;
 }
+
+main>.container-fluid {
+    padding-top: 60px;
+}
 .sticky-footer {
     position: sticky;
     left: 0;
     bottom: 0;
     width: 100%;
+}
+body> main{
+    margin-top: 20px;
+    margin-bottom: 60px;
 }
 
 .homeBG {
@@ -23,4 +31,8 @@ main>.container {
     font-weight: 400;
     font-style: normal;
     color: rgb(195, 255, 0);
+}
+
+.minHeight {
+    min-height: 80vh;
 }
